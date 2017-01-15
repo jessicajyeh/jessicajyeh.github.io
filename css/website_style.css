@@ -1,0 +1,66 @@
+body {
+
+	padding: 40px 15px;
+	background: url("../pics/dandelion.jpg");
+	width: 100%;
+}
+
+section {
+	position: relative;
+}
+
+h1 {
+/*	padding-top:50px;*/
+	padding-bottom: 25px;
+	text-align:center;
+	color: white;
+	font-family: 'Sanchez', serif;
+	font-size: 400%;
+}
+
+#picholder {
+	align-content: center;
+}
+
+.header {
+	text-align:center;
+	font-family: 'Sanchez', serif;
+	font-size: 400%;	
+}
+
+.return {
+	font-family: 'Sanchez', serif;
+	font-size: 150%;
+/*	position: absolute;
+	bottom: 10px
+	align-content:center;*/
+}
+
+#current{
+	position: absolute;
+	bottom:65px;
+	text-align: center;
+}
+
+#monty {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 160%;
+}
+
+#aboutpic {
+	width: 20%;
+}
+
+#aboutme #top #projects #photography{
+	overflow:hidden;
+}
+
+.piclink {
+	max-width: 110%;
+}
+
+.gallery {
+	max-width: 150px;
+	max-height: 150px;
+}
+
